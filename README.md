@@ -27,10 +27,10 @@ merge sort projesi #answer
 [8,11,12,16,21,22]                                                                                                                                                                         
 binary search tree projesi #answer                                                                                                                                                         
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]                                                                                                                                                             
-        5 
-     /    \
-   3       7
-  / \     / \
- 2  4    6    8
-/ \             \
-0  1              9 
+        5                                                                                                                                                                                  
+     /    \                                                                                                                                                                                
+   3       7                                                                                                                                                                               
+  / \     / \                                                                                                                                                                              
+ 2  4    6    8                                                                                                                                                                            
+/ \             \                                                                                                                                                                          
+0  1              9                                                                                                                                                                        
