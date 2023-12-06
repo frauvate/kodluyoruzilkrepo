@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-kodluyoruz front-end dev. eğitimi kapsamında açtığım ilk repo
+kodluyoruz front-end dev. eğitimi kapsamında açtığım ilk repo /br
 insertion sort projesi #answer
 [22,27,16,2,18,6]
 [16,22,27,2,18,6]
